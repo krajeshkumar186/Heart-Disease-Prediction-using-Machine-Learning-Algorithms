@@ -61,14 +61,7 @@ Results
 The Random Forest algorithm provided the highest accuracy of 95%, outperforming other models. However, other models like XGBoost, Decision Trees, and Logistic Regression also showed competitive performance. The choice of the best algorithm depends on factors like interpretability, computational cost, and deployment requirements.
 
 Algorithm	Accuracy:
-Logistic Regression	85%
-Naive Bayes	83%
-Support Vector Machine	84%
-K-Nearest Neighbors	87%
-Decision Tree	90%
-Random Forest	95%
-XGBoost	92%
-Artificial Neural Network	88%
+Logistic Regression	85%, Naive Bayes	83%, Support Vector Machine	84%, K-Nearest Neighbors	87%, Decision Tree	90%, Random Forest	95%, XGBoost	92%, Artificial Neural Network	88%
 
 Dataset Used
 The dataset used for this project is the UCI Heart Disease dataset, which contains 303 observations with 14 features representing various health metrics. The dataset can be found on Kaggle:- https://www.kaggle.com/datasets/ronitf/heart-disease-uci
